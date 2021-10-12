@@ -1,0 +1,7 @@
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\00-c-sharp\iamtimcorey\02-basic-common-syntax\00-variables-and-conditionals\03-MiniProject\MiniProject-VariableAndConditionals\ConsoleUI\obj\Debug\ConsoleUI.pdb
